@@ -20,6 +20,7 @@ I modified the main block to iterate over the 100 inputs
 Results
 
 ![image](https://github.com/user-attachments/assets/6aa7f354-5f8e-4291-aee2-a9fc1d2a88bf)
+![image](https://github.com/user-attachments/assets/32af2e12-987a-4fe2-ad00-24f45986610e)
 
 Graph
 
